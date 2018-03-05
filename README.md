@@ -1,6 +1,2 @@
-# LearningLanguage
-its all about learning other languages
-# GermanLearning In Urdu
-it was not so easy to learn germn in urdu.
-# Wordpress LMS
-I want to create a LMS system for my wordpress. 
+# Contact Manager
+its a simple contact manager using javascript. 

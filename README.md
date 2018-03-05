@@ -1,2 +1,2 @@
-# LearningLanguage
-its alll about learning other languages
+# Contact Manager
+Simple contact Manager using Javascript.
